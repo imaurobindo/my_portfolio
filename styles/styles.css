@@ -1,0 +1,86 @@
+
+        
+        .main-div{
+            background-image: url('../images/bg.webp');
+            background-attachment: fixed;
+            
+        }
+
+        .mynav{
+            /* background-color: blueviolet; */
+            display: inline-block;
+            color:   #196dfc;
+            width: 70%;
+            margin-left: 15%;
+            padding: 2%;
+            font-size: 38px;
+            opacity: 0.7;
+            font-family: Arial, Helvetica, sans-serif;
+            position:-webkit-sticky;
+           
+            
+            
+        }
+
+        .mynav-full{
+            background-color: rgb(255, 255, 255);
+            
+        }
+
+        .nav-text:hover{
+            color: blueviolet;
+        }
+
+        .my-info{
+           
+            width: 35%;
+            margin-left: 12%;
+            padding-top: 100px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: 33px;
+        }
+
+        .design-bg{
+            
+            width: 53%;
+            position: relative;
+            left: 47%;
+            bottom: 150px;
+               }
+
+        #info-block-about{
+           font-size: 30px;
+           padding-left: 10%;
+           padding-top: 6%;
+        }
+
+        #info-block-p{
+            padding-bottom: 50%;
+            font-size: 30px;
+            margin-left: 10%;
+            padding-top: 10%;
+         }
+
+        #my-pic{
+            position:relative;
+            bottom: 400px;
+            left: 54%;
+            width: 40%;
+        }
+
+     
+
+        .nav-text{
+            padding: 20px;
+            text-decoration: none;
+           
+            
+        }
+
+        body{
+            margin: 0%;
+        }
+
+        .curr-univ{
+            font-size: 23px;
+        }
